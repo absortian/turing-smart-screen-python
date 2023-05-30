@@ -12,7 +12,7 @@ static_images:
     HEIGHT: 480
 static_text:
   CPU_MODEL:
-    TEXT: Your CPU model here
+    TEXT: Intel Core i9
     X: 50
     Y: 127
     FONT: generale-mono/GeneraleMonoA.ttf
@@ -20,7 +20,7 @@ static_text:
     FONT_COLOR: 255, 239, 8
     BACKGROUND_IMAGE: background.png
   GPU_MODEL:
-    TEXT: Your GPU model here
+    TEXT: RTX 3060
     X: 50
     Y: 215
     FONT: generale-mono/GeneraleMonoA.ttf
@@ -28,7 +28,7 @@ static_text:
     FONT_COLOR: 255, 239, 8
     BACKGROUND_IMAGE: background.png
   RAM_MODEL:
-    TEXT: Your RAM model here
+    TEXT: '32 GB 3200 MHz'
     X: 50
     Y: 303
     FONT: generale-mono/GeneraleMonoA.ttf
