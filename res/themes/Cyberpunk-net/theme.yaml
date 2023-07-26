@@ -20,7 +20,7 @@ static_text:
     FONT_COLOR: 255, 239, 8
     BACKGROUND_IMAGE: background.png
   GPU_MODEL:
-    TEXT: RTX 3060
+    TEXT: RTX 3070 Ti
     X: 50
     Y: 215
     FONT: generale-mono/GeneraleMonoA.ttf
