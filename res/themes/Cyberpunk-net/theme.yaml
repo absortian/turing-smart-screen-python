@@ -1,4 +1,6 @@
 ---
+author: "@amiltonjr"
+
 display:
   DISPLAY_ORIENTATION: portrait
   DISPLAY_RGB_LED: 255, 255, 0
@@ -12,7 +14,7 @@ static_images:
     HEIGHT: 480
 static_text:
   CPU_MODEL:
-    TEXT: Intel Core i9
+    TEXT: Your CPU model here
     X: 50
     Y: 127
     FONT: generale-mono/GeneraleMonoA.ttf
@@ -20,7 +22,7 @@ static_text:
     FONT_COLOR: 255, 239, 8
     BACKGROUND_IMAGE: background.png
   GPU_MODEL:
-    TEXT: RTX 3070 Ti
+    TEXT: Your GPU model here
     X: 50
     Y: 215
     FONT: generale-mono/GeneraleMonoA.ttf
@@ -28,7 +30,7 @@ static_text:
     FONT_COLOR: 255, 239, 8
     BACKGROUND_IMAGE: background.png
   RAM_MODEL:
-    TEXT: '32 GB 3200 MHz'
+    TEXT: Your RAM model here
     X: 50
     Y: 303
     FONT: generale-mono/GeneraleMonoA.ttf
@@ -59,6 +61,7 @@ static_text:
     FONT_SIZE: 15
     FONT_COLOR: 255, 239, 8
     BACKGROUND_IMAGE: background.png
+
 STATS:
   CPU:
     PERCENTAGE:
